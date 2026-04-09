@@ -10,4 +10,4 @@ def search_array(data, target):
 
 # Eksekusi
 index = search_array(nama_array, key)
-print(f"Array: Huruf '{key}' pertama ditemukan pada index
+print(f"Array: Huruf '{key}' pertama ditemukan pada index ke 1
